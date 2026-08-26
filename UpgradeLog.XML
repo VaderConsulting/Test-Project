@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Test Project">
+</Property><Property Name="Solution File" Value="D:\Documents\Visual Studio 2005\Projects\Test Project\Test Project.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\Visual Studio 2005\Projects\Test Project\Test Project.suo">
+</Property><Property Name="Date" Value="Thursday, 6 December 2007">
+</Property><Property Name="Time" Value="10:29 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Test Project.sln" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Test Project.suo" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project.suo">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\Test Project.vbproj" Description="Project file successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\Test Project.vbproj">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\Form1.vb" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\Form1.Designer.vb" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\Application.myapp" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\Settings.settings" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\Form1.resx" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\My Project\Resources.resx" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Test Project\Backup\Test Project\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\Test Project.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test Project" Source="Test Project\Test Project.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Test Project.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Test Project.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test Project" Source="Test Project\Test Project.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
