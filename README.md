@@ -14,6 +14,10 @@ Test Project is a VB.NET WinForms experiment that zips every file on D:\ into D:
 
 Open `Test Project.sln` in Visual Studio 2008 (solution format 10.00) or later. The project was converted from Visual Studio 2005 (`ProductVersion` 8.0.50727, `ToolsVersion` 3.5).
 
+## Requirements
+
+- Visual Studio 2005 to 2008
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Test Project`. Assembly title/product `Test Project`, blank company, copyright © 2007. References `ICSharpCode.SharpZipLib` 0.85.2.329 (`ICSharpCode.SharpZipLib.dll` in the project folder). Upgrade log dated 6 December 2007 records a Visual Studio 2005 → 2008 conversion (`Backup/` and `_UpgradeReport_Files/`).
